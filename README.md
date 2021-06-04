@@ -1,7 +1,7 @@
 ### Hi, I'm Osaro 👋
 
 
-- 🔭 I’m currently working at https://www.ferrumhealth.com/ fulltime, during the weekends I spend time on personal projects.
+- 🔭 I’m currently working at https://www.ferrumhealth.com/ fulltime, during the weekend I spend time on personal projects.
 - 🌱 I’m currently learning Golang with Echo
 - 👯 I’m looking to collaborate on anything cool
 - 💬 Ask me about JavaScript, TypeScript, React, React Native, GraphQL
